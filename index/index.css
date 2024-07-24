@@ -1,0 +1,48 @@
+body {
+  background-color: rgba(218, 247, 176, 0.945) !important;
+}
+
+#searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.btn,
+.btn-primary {
+  height: 50px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#searchMovie {
+  margin-left: 2px;
+  width: 250px;
+  height: 50px;
+}
+
+.searchContainer input {
+  margin-left: 10px;
+}
+
+.movieCards {
+  margin: 20px auto;
+  width: 1200px;
+}
+
+.card-body {
+  width: 280px;
+  height: 440px;
+}
+
+.card-text {
+  width: auto;
+  height: auto;
+}
